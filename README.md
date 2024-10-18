@@ -1,1 +1,1 @@
-# coin_test_lp
+# test-sui-coin
